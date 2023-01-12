@@ -9,7 +9,7 @@
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white//www.behance.net/androliveira2)](https://www.behance.net/androliveira2)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511964320378?text=Ol%C3%A1%21+Sou+Andr%C3%A9+Oliveira)
 [![Lnkedin](https://img.shields.io/badge/LinkedIni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-oliveira-55849a143/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/andré-oliveira-55849a143/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreoliveira&show_icons=true&theme=tokyonight&count_private=true)
 
